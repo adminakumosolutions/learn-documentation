@@ -24,3 +24,8 @@ bash scripts/bye.sh
 ### Contributors
 
 - @emrecoding
+
+### Links
+
+[Ansible Docs](https://docs.ansible.com/)
+[AWS Docs](https://docs.aws.amazon.com/)
