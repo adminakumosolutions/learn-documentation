@@ -21,4 +21,6 @@ python scripts/hello.py
 bash scripts/bye.sh
 ```
 
+### Contributors
 
+- @emrecoding
